@@ -1,0 +1,5 @@
+Problem Statement:
+
+Build a model that can detect whether a handwritten digit (0-9) is Even (0) or Odd (1) using CNN. You can ask your classmates to upload small images (drawn using Paint or paper) of digits via Google Form (or use a small dataset if time is limited).
+
+Preprocess the images, resize to standard input (e.g., 28x28), and build a CNN binary classifier.
